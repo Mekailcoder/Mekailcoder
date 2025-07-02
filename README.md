@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **node.js, next.js, mongodb**
 
-- 💬 Ask me about **javaScript,react.js, asap**
+- 💬 Ask me about **javaScript,react.js, gsap**
 
 - 📫 How to reach me **skmekailali2001@gmail.com**
 
